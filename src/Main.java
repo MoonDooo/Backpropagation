@@ -11,10 +11,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-/**
- * @오류역전파
- * @author 20181405 컴퓨터공학과 임경완
- */
+
 public class Main {
 
 	public static void main(String[] args) {
